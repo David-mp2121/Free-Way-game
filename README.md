@@ -1,9 +1,8 @@
-# Free-Way-game
-Game done by the p5.js.
-link to access it :
--play mode : https://editor.p5js.org/davi_mp2121/full/8rYOPxEg8
+# Free-Way game
+Game made by p5.js.
+link to access it:
+- playback mode: https://editor.p5js.org/davi_mp2121/full/8rYOPxEg8
 
-This project was done like a final projet of a programming logic course.
+It was done as the final work of a programming logic course.
+The main idea practiced in this project was the use of arrays to make your code cleaner and more readable.
 
-CollideRectCircle ()
-I used a alredy created function in the p5.js library to identifi the collide betwn the cirlce (actor) and the rect(Cars)
