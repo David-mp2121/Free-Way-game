@@ -3,6 +3,7 @@
 function setup() {
   createCanvas(500, 400);
   trilha.loop()
+  trilha.setVolume(0.3)
 }
 
 function draw() {
